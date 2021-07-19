@@ -24,3 +24,7 @@ html, body {
     width: 100%;
     padding: 20px;
   }
+
+  .testbox{
+      font-style: italic;
+  }
